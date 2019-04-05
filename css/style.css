@@ -1,0 +1,16 @@
+.entire-body{
+    background-color: white;
+    border: 1px solid red; 
+    
+}
+
+.nav-header{
+    border: 1px solid black;
+    height: 65px;
+    background-color: green;
+}
+
+.profile-image{
+    width: 200px;
+    border: 1px solid yellow;
+}
